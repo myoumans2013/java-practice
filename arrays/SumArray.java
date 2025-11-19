@@ -7,7 +7,6 @@ public class SumArray {
         for (int i = 0; i < array.length; i++) {
             sum += array[i]; // add index value to sum
         }
-
         return sum;
     }
 
